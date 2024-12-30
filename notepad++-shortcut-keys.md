@@ -102,5 +102,4 @@ Here’s a detailed and decorated **Notepad++ Shortcut Key Chart Sheet** that yo
    Use `Settings > Style Configurator` to choose a dark theme for better readability.  
 
 ---
-
-Let me know if you'd like this designed as a **printable PDF**! 😊
+---
